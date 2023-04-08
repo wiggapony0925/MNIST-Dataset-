@@ -6,7 +6,7 @@ This repository contains code and resources for working with neural networks and
 
 To get started with this project, follow these steps:
 
-1. Clone the repository to your local machine using `git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git`.
+1. Clone the repository to your local machine using `git clone https://github.com/wiiggapony0925/MNIST_Dataset-.git`.
 
 2. Install any necessary dependencies. The code in this repository requires Python 3 and several Python packages, including NumPy, TensorFlow, and Keras.
 
