@@ -1,5 +1,10 @@
 # Working with Neural Networks and the MNIST Dataset
 
+![MNIST Dataset Example Image](https://upload.wikimedia.org/wikipedia/commons/2/27/MnistExamples.png)
+
+This image shows examples of handwritten digits from the MNIST dataset. Each digit is a 28 x 28 grayscale image, and the dataset includes a total of 70,000 such images. The goal of a machine learning model trained on this dataset would be to accurately classify each image based on the digit it represents.
+
+
 This repository contains code and resources for working with neural networks and the MNIST dataset. The MNIST dataset is a widely used benchmark dataset in machine learning, consisting of 70,000 handwritten digit images, each 28 x 28 pixels in size. The goal of the dataset is to train a neural network to accurately classify the digits from 0 to 9.
 
 ## Getting Started
